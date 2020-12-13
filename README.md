@@ -41,6 +41,11 @@ Dowloads datasets [link](https://ravi-finds-fake-news.herokuapp.com) 6336 * 4
 * Reports
 <img src="images/Report.png">
 
+#Try It OUT
+1. Clone the repo to your local machine
+   > https://github.com/gokulbhaveshjoshi/FakeNewsDetectionSystem.git
+   > cd FakeNewsDetectionSystem
+
 
 # Run project
 * first go to project home directory
