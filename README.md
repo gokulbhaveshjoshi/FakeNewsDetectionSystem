@@ -12,12 +12,12 @@ Fake news Detction system, It will be trained by a bidirectional neural network 
 <img src="images/file-structure.png">
 
 # Datasets
-Dowloads datasets [link](https://ravi-finds-fake-news.herokuapp.com) 6336 * 4
+Dowloads datasets 
 * fake_or_real_news.csv: A datasets with the following attributes
-  1.Id: unique id for a news article.
-  2.Title: The title of a news article.
-  3. Text: Text of the news article.
-  4. Label: REAL or FAKE.
+  > Id: unique id for a news article.
+  > Title: The title of a news article.
+  > Text: Text of the news article.
+  > Label: REAL or FAKE.
   size of datasets id 6336*4
 
 
@@ -42,8 +42,10 @@ Dowloads datasets [link](https://ravi-finds-fake-news.herokuapp.com) 6336 * 4
 
 # Try It OUT
 1. Clone the repo to your local machine
+```
    > https://github.com/gokulbhaveshjoshi/FakeNewsDetectionSystem.git
    > cd FakeNewsDetectionSystem
+```
 
 
 # Run project
