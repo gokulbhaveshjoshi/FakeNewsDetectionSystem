@@ -2,13 +2,13 @@
  Fake news detection system is based on Machine learning.
 <img src="GIF/gif.gif">
 
-#Introduction
+# Introduction
 Fake news detection system is an web application which tells you about news, news is fake or not.
 
-#Abstract 
+# Abstract 
 Fake news Detction system, It will be trained by a bidirectional neural network and LSTM based deep learning model to detected fake news from given corpus. This project could be pratically used by predict whether the circulating news is fake or not.
 
-#File structure
+# File structure
 <img src="images/file-structure.png">
 
 # Datasets
@@ -26,22 +26,21 @@ Dowloads datasets [link](https://ravi-finds-fake-news.herokuapp.com) 6336 * 4
 * app.py - This contains Flask APIs that receives news url through GUI or API calls, extracts the article from the url, feeds it to the model and returns the prediction.
 * templates - This folder contains the HTML template to allow user to enter url and displays whether the news is fake or real.
 * static - This folder contains the CSS file.
-* libraries.txt - It contains the list of libraries required to run the heroku app
 
 
 
 
 # Graphs and table
 * Confussion Matrix
-<img src="images/confussion_matrix.png">
+<img src="image/confussion_matrix.png">
 
 * Heat Map
-<img src="images/Heat_map.png">
+<img src="image/Heat_map.png">
 
 * Reports
-<img src="images/Report.png">
+<img src="image/Report.png">
 
-#Try It OUT
+# Try It OUT
 1. Clone the repo to your local machine
    > https://github.com/gokulbhaveshjoshi/FakeNewsDetectionSystem.git
    > cd FakeNewsDetectionSystem
