@@ -9,16 +9,16 @@ Fake news detection system is an web application which tells you about news, new
 Fake news Detction system, It will be trained by a bidirectional neural network and LSTM based deep learning model to detected fake news from given corpus. This project could be pratically used by predict whether the circulating news is fake or not.
 
 # File structure
-<img src="images/file-structure.png">
+<img src="image/file-structure.png">
 
 # Datasets
 Dowloads datasets 
 * fake_or_real_news.csv: A datasets with the following attributes
-  > Id: unique id for a news article.
-  > Title: The title of a news article.
-  > Text: Text of the news article.
-  > Label: REAL or FAKE.
-  size of datasets id 6336*4
+  1. Id: unique id for a news article.
+  2. Title: The title of a news article.
+  3. Text: Text of the news article.
+  4. Label: REAL or FAKE.
+  > size of datasets id 6336*4
 
 
 # Program Structure
@@ -38,7 +38,7 @@ Dowloads datasets
 <img src="image/Heat_map.png">
 
 * Reports
-<img src="image/Report.png">
+<img src="image/Reports.png">
 
 # Try It OUT
 1. Clone the repo to your local machine
