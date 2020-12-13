@@ -7,15 +7,12 @@ Fake news detection System
 
 
 #Importing the Libraries
-import numpy as np
 from flask import Flask, request,render_template
 from flask_cors import CORS
 import os
 #from sklearn.externals import joblib
 import pickle
 import flask
-import os
-import newspaper
 from newspaper import Article
 import urllib
 
