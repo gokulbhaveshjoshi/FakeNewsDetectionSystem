@@ -19,6 +19,8 @@ Dowloads datasets
   3. Text: Text of the news article.
   4. Label: REAL or FAKE.
   > size of datasets id 6336*4
+  
+  Dataset Link :- https://www.kaggle.com/hassanamin/textdb3?select=fake_or_real_news.csv
 
 
 # Program Structure
