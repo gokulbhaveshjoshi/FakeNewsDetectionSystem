@@ -3,10 +3,10 @@
 <img src="GIF/gif.gif">
 
 # Introduction
-Fake news detection system is an web application which tells you about news, news is fake or not.
+The fake news detection system is a web application that tells you about news, the news is fake or not.
 
 # Abstract 
-Fake news Detction system, It will be trained by a bidirectional neural network and LSTM based deep learning model to detected fake news from given corpus. This project could be pratically used by predict whether the circulating news is fake or not.
+The fake news Detection system will be trained by a bidirectional neural network and LSTM based deep learning model to detected fake news from given corpus. This project could be practically used to predict whether the circulating news is fake or not.
 
 # File structure
 <img src="image/file-structure.png">
